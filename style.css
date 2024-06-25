@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.main_box{
+    width: 350px;
+    height: 300px;
+    margin: 50px auto;
+    border: 1px solid white;
+    align-items: center;
+    display: flex;
+}
+
+.mini_box{
+    width: 120px;
+    height: 300px;
+}
+.box_1{
+    background-color:blue;
+}
+.box_2{
+    background-color: yellow;
+}
+.box_3{
+    background-color: red;
+}
